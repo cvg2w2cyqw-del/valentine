@@ -67,6 +67,8 @@ yesBtn.addEventListener("click", () => {
     document.querySelector(".letter-window").classList.add("final");
 
     buttons.style.display = "none";
+    
+finalText.textContent = "Love you bobo 💗";
 
     finalText.style.display = "block";
 });
