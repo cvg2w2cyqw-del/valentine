@@ -68,7 +68,7 @@ yesBtn.addEventListener("click", () => {
 
     buttons.style.display = "none";
     
-finalText.textContent = "Love you bobo 💗";
+finalText.textContent = "MWAAHHH 💗";
 
     finalText.style.display = "block";
 });
